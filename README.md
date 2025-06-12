@@ -1,7 +1,7 @@
 # Sending Message on Whatsapp Automatically
 Assalam-U-Alaikum</br>
 I have created an app in which we can send a message on bulk automatically. This app will send message to each user after 15 seconds and we can extend the time of sending the message to each user. The Streamlit UI is used in the project which is a web based module in Python. This program can also send Images with the Captions. I have separated it in two pages which is:</br><b>
-1. Only Text</br>
+1. Only Text</b>
 <b>2. Text and Images</b>
 
 List of Libraries which used in the implementation of this app:</br>
